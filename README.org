@@ -26,3 +26,7 @@
 
 * 使い方
   正常にインストールできていれば快適な美雲このはライフを送れると思います。
+
+* 元
+
+https://github.com/toshia/tomorinao

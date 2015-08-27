@@ -1,19 +1,19 @@
-友利奈緒プラグイン
+美雲このはプラグイン
 
 * これなん
-  最近Twitterで「友利奈緒」を名乗る人が多いですが、みんな同じ名前では名前の意味がありませんよ。
+  最近Twitterで「美雲このは」を名乗る人が多いですが、みんな同じ名前では名前の意味がありませんよ。
 
-  普段のTL
+#  普段のTL
 
-  [[https://github.com/toshia/tomorinao/raw/master/nao0.png]]
+#  [[https://github.com/toshia/tomorinao/raw/master/nao0.png]]
 
-  プロフィールを開いても大丈夫
+#  プロフィールを開いても大丈夫
 
-  [[https://github.com/toshia/tomorinao/raw/master/nao1.png]]
+#  [[https://github.com/toshia/tomorinao/raw/master/nao1.png]]
 
-  これはひどい
+#  これはひどい
 
-  [[https://github.com/toshia/tomorinao/raw/master/nao2.png]]
+#  [[https://github.com/toshia/tomorinao/raw/master/nao2.png]]
 
   このプラグインをインストールすれば、そのアカウントの本来の名前が表示されるようになります。
 
@@ -21,8 +21,8 @@
   以下のコマンドを実行してください。
 
 #+BEGIN_SRC sh
-  $ mkdir -p ~/.mikutter/plugin/; git clone https://github.com/toshia/tomorinao.git ~/.mikutter/plugin/tomorinao/
+  $ mkdir -p ~/.mikutter/plugin/; git clone https://github.com/knot-azk/mikumoconoha.git ~/.mikutter/plugin/mikumoconoha/
 #+END_SRC
 
 * 使い方
-  正常にインストールできていれば快適な友利奈緒ライフを送れると思います。
+  正常にインストールできていれば快適な美雲このはライフを送れると思います。
